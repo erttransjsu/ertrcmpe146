@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio\" -I\"C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio/Debug\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -std=c++17 -xc++",
+      "file"      : "C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio/lab1_gpio.cpp"
+   },
+   {
+      "directory" : "C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio\" -I\"C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio/Debug\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "C:/Temp/CMPE 146 Labs/cmpe146-2026-MSPM0G3507-main/lab1_gpio/Debug/ti_msp_dl_config.c"
+   }
+]
